@@ -2,6 +2,10 @@
 
 React · TypeScript · Vite로 구현한 학습 관리 프런트엔드입니다. 프로젝트의 Milky Season 팔레트를 참고해 세이지·크림 배경과 과목별 파스텔 색상을 적용했습니다.
 
+## 웹에서 보기
+
+[STUDYSPACE 실행하기](https://brianjudy10244.github.io/STUDY-SPACE/)
+
 ## 실행
 
 macOS에서는 프로젝트 폴더의 `STUDYSPACE.command`를 더블클릭하면 로컬 서버와 브라우저가 자동으로 열립니다. 처음 실행할 때 macOS가 차단하면 파일을 우클릭하고 `열기`를 선택하세요.
