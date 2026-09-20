@@ -1,0 +1,46 @@
+Tool: built-in image_gen
+Design review: design-taste-frontend agent
+Status: design concept, not consumer-tested
+Asset: studyspace-logo-v2.png
+Presentation: studyspace-brand-board-v2.png
+
+Presentation prompt:
+Create a finished brand presentation sheet for this redesigned STUDYSPACE logo. The attached image is the design to preserve: a compact dark green S assembled from four curved pieces, and the exact lowercase wordmark "studyspace" with a double-storey a. Preserve the four-piece silhouette and typography. Very slightly normalize the visual width of the three gaps so the upper and lower channels feel equally open, no new cuts.
+
+An OPAQUE LIGHT WARM IVORY presentation background #F5F2E9 fills the entire landscape canvas edge to edge. This is an editorial brand sheet with TWO colored background panels, NOT a transparent logo cutout.
+Layout: large main area on the left, about 70% of canvas width, ivory background. Center the primary four-piece green symbol above its lowercase studyspace wordmark here, with beautiful breathing room, logo generously visible.
+Rightmost 30% is a full-height solid very pale citron panel #DCE89B. Place a single modest rounded-square app icon centered in the right panel: deep green square #193D35, with the exact same four-piece symbol in ivory inside, generous padding. No wordmark inside the small icon. The small icon demonstrates thumbnail recognition; it should be about one third the height of the main symbol. Keep all four pieces in this reversed symbol.
+
+No other text, no captions, no taglines, no fake UI, no strokes around the panels, no extraneous objects. Restrained contemporary university stationery aesthetic, calm and considered. Colors limited to flat ink green #193D35, warm ivory #F5F2E9, and pale citron #DCE89B. Perfectly flat, crisp vector-like appearance. Entire sheet fully opaque, no transparent areas, no shadows, gradients or texture.
+
+Refinement prompt:
+Refine this STUDYSPACE logo image, keeping the existing deep ink green on fully opaque warm ivory, the compact curved S silhouette, and the centered stacked composition.
+
+Make two precise corrections:
+1. The S currently has THREE disconnected green pieces because the central curved bridge is joined. Insert ONE short vertical ivory gap through the middle of that bridge, approximately at the horizontal center of the symbol. The cut crosses only the thick connecting bridge between the two existing curved ivory channels. Width matches the narrow existing gaps. This separates the big middle piece into two balanced curved elbow pieces, so the finished S consists of EXACTLY FOUR disconnected substantial green pieces: upper-right cap, upper-left elbow, lower-right elbow, lower-left cap. Keep the outer silhouette unchanged. Gap ends meet existing negative spaces cleanly, subtle softened cut corners, no slash or point. The S stays coherent and easily readable.
+2. Replace the overly heavy round wordmark with the EXACT lowercase "studyspace" in a refined MEDIUM-WEIGHT humanist sans serif. Reduce stroke weight by about 25 percent; generously open counters, clean optical spacing, a double-storey 'a', a friendly but well-crafted non-bubbly look. Keep one word, same approximate overall width, horizontal baseline.
+
+Do not add any new elements. Flat vector-like artwork, no texture, no gradients or shadows. The background remains fully opaque light warm ivory #F5F2E9; all logo artwork deep ink green #193D35. One polished logo, no other variations or labels.
+
+Design constraints for STUDYSPACE revision
+
+Audience: university students in exam periods.
+Product: planning, learning notes/focus, task management, review.
+Chosen concept: separate pieces finding their places and becoming one coherent symbol.
+User intent: approachable and attractive without looking frivolous; based on bold geometric logo references.
+Review criteria: recognizable small silhouette; calm approachable character; symbol and wordmark feel related; broad clear negative space; works in one color; restrained color accents; no unnecessary decorative cuts.
+Delivery: versioned visual concept in workspace, source generation prompts.
+
+Initial redesign prompt:
+Use case: logo-brand.
+Asset: redesigned primary brand logo presentation for STUDYSPACE, a study organizer for university students during exam season. They need reassurance, clarity, and a personal space they want to open daily. Keep the selected "pieces coming into order" concept.
+
+Input image: the existing logo is an EDIT/REDESIGN TARGET, not a template to trace. Rebuild its silhouette and typography substantially. Its tall slashed S and heavy capitals feel too forceful; the redesign should feel like thoughtful contemporary stationery, warm and composed, appealing to university students without being childish.
+
+Create one compact original S symbol constructed from exactly FOUR substantial interlocking pieces. First establish a beautifully clear, almost square S silhouette (width:height about 1:1.05), then divide it with THREE short, clean, generous gaps at logical transitions. Two larger rounded elbow sections plus two shorter broad terminal sections; unequal piece sizes, visually coordinated. The pieces settle into an intentional form, not scattered. Broad continuous curves, gently softened corners, optically balanced mass, even negative spaces. Two flowing upper and lower regions. Readable S at thumbnail size. No long diagonal slash through the whole symbol, no extra hairline slit, no sharp blade points. No pinwheel, flower, jigsaw tabs, four-square app grid, chain, cube, recycle arrows, lightning, face, leaves, graduation cap, book pictogram. Keep rich simple graphic character.
+
+Wordmark EXACTLY "studyspace", all lowercase as an intentional softer rendering of the brand name. Medium-semibold refined humanist/geometric sans serif; open counters, subtly softened terminals, precise optical kerning. Not extra bold, not childish bubble type, not condensed or italic. Symbol and lettering feel related in curve language. Wordmark visually quieter than the icon. Comfortable separation.
+
+Composition: single centered stacked lockup: compact symbol above, wordmark below, generous surrounding whitespace. The symbol takes about 34% of canvas width; the wordmark about 52%. No decorative layout frames, no explanations, no extra text, no additional versions. A considered, usable primary logo concept.
+
+Colors: symbol and lettering in flat deep ink green #193D35. Entire background solid warm ivory #F5F2E9. OPAQUE ivory background across the whole canvas; this is a presentation image, not a transparent cutout. No multicolor symbol. Flat vector-like print graphics with perfectly crisp edges; no shadows, texture, 3D, gradient, paper photography or mockup. Quietly confident, friendly and premium.

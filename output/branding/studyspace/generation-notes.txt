@@ -1,0 +1,13 @@
+Tool: built-in image_gen
+Output: studyspace-logo-v1.png (transparent PNG)
+Preview: studyspace-logo-preview-v1.png (light background)
+
+Preview edit prompt:
+Edit this existing STUDYSPACE logo image for a presentation preview. Preserve the exact existing black symbol and STUDYSPACE lettering, their shape, spacing, and proportions. Change only the background: replace every transparent area with a completely opaque, solid light warm gray background, hex #E9E6DF. The entire square image must have this opaque light gray background, including all negative spaces in the logo. The black logo must be very clearly visible on the light gray. This is a finished presentation card, NOT a transparent logo asset. Do not remove the background. No new text, shapes, effects or shadows. Keep the exact same logo.
+
+Final prompt:
+Design a crisp black-on-WHITE logo for "STUDYSPACE". White background must be bright pure white (#FFFFFF), and all lettering and symbol solid black (#000000), like black ink printed on white paper. This is a flat graphic logo, not a photograph.
+
+Create an original compact S monogram made from four substantial geometric pieces aligned neatly together. Small clean white channels separate the pieces. Broad rounded outer corners and straight inner cuts. The pieces combine into an unmistakable S with a balanced, strong silhouette. The concept is study tasks and notes becoming organized, for university students during exams. Friendly, confident, substantial, understated. Use the attached three references only for bold geometric weight, curved shapes, and separated pieces, not their exact silhouettes.
+
+One large centered symbol with the exact uppercase word "STUDYSPACE" underneath in a bold clean sans serif. Good spacing and generous white margins. Single logo, no extra elements or text. Flat, sharp, minimal, high contrast vector-like graphic. No lighting effects, shading, textures, gradients, photographic treatment, or dark background. Pure white canvas with clearly visible solid black artwork.
